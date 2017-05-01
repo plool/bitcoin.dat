@@ -1,2 +1,2 @@
 # bitcoin.dat
-some links and tutorials
+donwload the bitcoin core: https://bitcoin.org/en/
